@@ -1,0 +1,95 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "WorkAssignment.Shared/1.0.0": {
+        "dependencies": {
+          "Microsoft.Extensions.Configuration.Binder": "6.0.0-preview.3.21201.4"
+        },
+        "runtime": {
+          "WorkAssignment.Shared.dll": {}
+        }
+      },
+      "Microsoft.Extensions.Configuration.Abstractions/6.0.0-preview.3.21201.4": {
+        "dependencies": {
+          "Microsoft.Extensions.Primitives": "6.0.0-preview.3.21201.4"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.Configuration.Abstractions.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.21.20104"
+          }
+        }
+      },
+      "Microsoft.Extensions.Configuration.Binder/6.0.0-preview.3.21201.4": {
+        "dependencies": {
+          "Microsoft.Extensions.Configuration.Abstractions": "6.0.0-preview.3.21201.4"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.Configuration.Binder.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.21.20104"
+          }
+        }
+      },
+      "Microsoft.Extensions.Primitives/6.0.0-preview.3.21201.4": {
+        "dependencies": {
+          "System.Runtime.CompilerServices.Unsafe": "6.0.0-preview.3.21201.4"
+        },
+        "runtime": {
+          "lib/netcoreapp3.0/Microsoft.Extensions.Primitives.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.21.20104"
+          }
+        }
+      },
+      "System.Runtime.CompilerServices.Unsafe/6.0.0-preview.3.21201.4": {
+        "runtime": {
+          "lib/netcoreapp2.0/System.Runtime.CompilerServices.Unsafe.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.21.20104"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WorkAssignment.Shared/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Extensions.Configuration.Abstractions/6.0.0-preview.3.21201.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-II6iZx4Bum+VHatI0en8db+8NclLffSitZMVU4r8wSkBneHah/5KSVCPMj5mr2rbFxu+eYXvCqvvrgnD0tz21Q==",
+      "path": "microsoft.extensions.configuration.abstractions/6.0.0-preview.3.21201.4",
+      "hashPath": "microsoft.extensions.configuration.abstractions.6.0.0-preview.3.21201.4.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Configuration.Binder/6.0.0-preview.3.21201.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-f0WQQ81ovEgVyifDBy3EHDOrAtYORr9Mp7OfFMVZRdohZwOr358djo/IEtnC+kKNcJmILVxU6qrQa1lVj77n1A==",
+      "path": "microsoft.extensions.configuration.binder/6.0.0-preview.3.21201.4",
+      "hashPath": "microsoft.extensions.configuration.binder.6.0.0-preview.3.21201.4.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Primitives/6.0.0-preview.3.21201.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Guby+tFJu2EBsU164X5SvOwYST3/NmPSwihBrvc3lt/opnmB29BwwEjF3mpoGhulpafNUrAArRO34Cpl3WS9Fg==",
+      "path": "microsoft.extensions.primitives/6.0.0-preview.3.21201.4",
+      "hashPath": "microsoft.extensions.primitives.6.0.0-preview.3.21201.4.nupkg.sha512"
+    },
+    "System.Runtime.CompilerServices.Unsafe/6.0.0-preview.3.21201.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Ca5NW4+2C30qV+V5qt+uUje+bJkJsUwSGy07K2P/VamY1+ot5zIvzB9fJtiFFR3uZaEPLozoNw+rXX2Iaf5hXw==",
+      "path": "system.runtime.compilerservices.unsafe/6.0.0-preview.3.21201.4",
+      "hashPath": "system.runtime.compilerservices.unsafe.6.0.0-preview.3.21201.4.nupkg.sha512"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+/Users/gustavolsson/OwnProjects/WorkAssignment/WorkAssignment.Shared/bin/Debug/net5.0/WorkAssignment.Shared.deps.json
+/Users/gustavolsson/OwnProjects/WorkAssignment/WorkAssignment.Shared/bin/Debug/net5.0/WorkAssignment.Shared.dll
+/Users/gustavolsson/OwnProjects/WorkAssignment/WorkAssignment.Shared/bin/Debug/net5.0/ref/WorkAssignment.Shared.dll
+/Users/gustavolsson/OwnProjects/WorkAssignment/WorkAssignment.Shared/bin/Debug/net5.0/WorkAssignment.Shared.pdb
+/Users/gustavolsson/OwnProjects/WorkAssignment/WorkAssignment.Shared/obj/Debug/net5.0/WorkAssignment.Shared.csprojAssemblyReference.cache
+/Users/gustavolsson/OwnProjects/WorkAssignment/WorkAssignment.Shared/obj/Debug/net5.0/WorkAssignment.Shared.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gustavolsson/OwnProjects/WorkAssignment/WorkAssignment.Shared/obj/Debug/net5.0/WorkAssignment.Shared.AssemblyInfoInputs.cache
+/Users/gustavolsson/OwnProjects/WorkAssignment/WorkAssignment.Shared/obj/Debug/net5.0/WorkAssignment.Shared.AssemblyInfo.cs
+/Users/gustavolsson/OwnProjects/WorkAssignment/WorkAssignment.Shared/obj/Debug/net5.0/WorkAssignment.Shared.csproj.CoreCompileInputs.cache
+/Users/gustavolsson/OwnProjects/WorkAssignment/WorkAssignment.Shared/obj/Debug/net5.0/WorkAssignment.Shared.dll
+/Users/gustavolsson/OwnProjects/WorkAssignment/WorkAssignment.Shared/obj/Debug/net5.0/ref/WorkAssignment.Shared.dll
+/Users/gustavolsson/OwnProjects/WorkAssignment/WorkAssignment.Shared/obj/Debug/net5.0/WorkAssignment.Shared.pdb

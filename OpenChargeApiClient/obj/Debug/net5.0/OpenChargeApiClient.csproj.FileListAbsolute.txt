@@ -1,0 +1,15 @@
+/Users/gustavolsson/OwnProjects/WorkAssignment/OpenChargeApiClient/bin/Debug/net5.0/OpenChargeApiClient.deps.json
+/Users/gustavolsson/OwnProjects/WorkAssignment/OpenChargeApiClient/bin/Debug/net5.0/OpenChargeApiClient.dll
+/Users/gustavolsson/OwnProjects/WorkAssignment/OpenChargeApiClient/bin/Debug/net5.0/ref/OpenChargeApiClient.dll
+/Users/gustavolsson/OwnProjects/WorkAssignment/OpenChargeApiClient/bin/Debug/net5.0/OpenChargeApiClient.pdb
+/Users/gustavolsson/OwnProjects/WorkAssignment/OpenChargeApiClient/bin/Debug/net5.0/WorkAssignment.Shared.dll
+/Users/gustavolsson/OwnProjects/WorkAssignment/OpenChargeApiClient/bin/Debug/net5.0/WorkAssignment.Shared.pdb
+/Users/gustavolsson/OwnProjects/WorkAssignment/OpenChargeApiClient/obj/Debug/net5.0/OpenChargeApiClient.csprojAssemblyReference.cache
+/Users/gustavolsson/OwnProjects/WorkAssignment/OpenChargeApiClient/obj/Debug/net5.0/OpenChargeApiClient.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gustavolsson/OwnProjects/WorkAssignment/OpenChargeApiClient/obj/Debug/net5.0/OpenChargeApiClient.AssemblyInfoInputs.cache
+/Users/gustavolsson/OwnProjects/WorkAssignment/OpenChargeApiClient/obj/Debug/net5.0/OpenChargeApiClient.AssemblyInfo.cs
+/Users/gustavolsson/OwnProjects/WorkAssignment/OpenChargeApiClient/obj/Debug/net5.0/OpenChargeApiClient.csproj.CoreCompileInputs.cache
+/Users/gustavolsson/OwnProjects/WorkAssignment/OpenChargeApiClient/obj/Debug/net5.0/OpenChargeApiClient.csproj.CopyComplete
+/Users/gustavolsson/OwnProjects/WorkAssignment/OpenChargeApiClient/obj/Debug/net5.0/OpenChargeApiClient.dll
+/Users/gustavolsson/OwnProjects/WorkAssignment/OpenChargeApiClient/obj/Debug/net5.0/ref/OpenChargeApiClient.dll
+/Users/gustavolsson/OwnProjects/WorkAssignment/OpenChargeApiClient/obj/Debug/net5.0/OpenChargeApiClient.pdb
